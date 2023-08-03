@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NasaImageOfTheDay</string>
+    <string name="selected_date">Date sélectionnée</string>
+    <string name="select_date">Sélectionner une date</string>
+    <string name="open_hd">Ouvert en hd</string>
+    <string name="help">Aider</string>
+</resources>
